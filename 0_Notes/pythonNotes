@@ -1,0 +1,56 @@
+What is python
+===============
+Python is high level interpreted language which is known for its simplicity and readability.
+It is designed to understand easy for humans.
+It is a scripting langauage
+
+Features of python
+==================
+1. It is a scripting language
+2. It is a dynamically typed programming langauge
+3. It has rich library
+4. python uses indendation concept to define block of code
+5. It is a interpreted langauge
+6. cross plateform
+7. supports oops priciples
+8. high level programming langauge, easy to understand and write
+
+Installation Guide
+====================
+- download latest version on python.org website
+- download VS code
+
+Check Installation
+====================
+- Open command prompt
+- write command: python --version
+
+Run First python program on vs code in the terminal
+===================================================
+- Install python extension from vs code
+- write code
+- open terminal (Better to use gitbash(Recommendded) terminal or powershell)
+
+First Program Example:
+====================== 
+print("Hello World")
+
+Function in Python
+===================
+syntax:
+def fun():
+    //statements or expressions
+
+EX:
+def fun():
+    print("This is function fun")
+
+Indentation
+============
+- indentation in python is used to define block of code.
+- In many other programming language, that use braces({}) to define block of code but in  python we use in to dentation block of code.
+
+- we can define indentation either by using space or tabspace
+- to writing same number of space or tabspace is mandatory
+- if space is increasing after first statement then will throw compile time error
+- if space is 0 then statement consider as outside statement from the fun or loop.
